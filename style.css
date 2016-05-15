@@ -1,0 +1,35 @@
+div {
+	width: 100px;
+	float: left;
+
+}
+
+body{
+	font-family: 'Raleway', sans-serif;
+}
+
+
+
+img {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+h1{
+	
+font-family: 'Raleway', sans-serif;
+margin: 1.66%;
+font-size: 23px;
+font-weight: 800;
+text-transform: uppercase;
+border-bottom: 2px solid #f1f1f1;
+width: 30%;
+padding-bottom: 20px;
+
+}
+
+p{
+	color: gray;
+	opacity: .5;
+}
